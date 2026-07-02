@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://castellon.desarrolladoresdeapps.com/sitemap.xml
